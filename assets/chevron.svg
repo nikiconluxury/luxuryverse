@@ -1,0 +1,7 @@
+<svg id="icon_primary_glyph:arrow-r_" data-name="icon [primary][glyph:arrow-r]" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="icon_area" data-name="icon area" width="20" height="20" fill="#587fff" opacity="0"/>
+  <g id="icon" transform="translate(12.814 10.157) rotate(135)">
+    <line id="Line_1" data-name="Line 1" x2="8" transform="translate(0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    <line id="Line_2" data-name="Line 2" y1="8" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
