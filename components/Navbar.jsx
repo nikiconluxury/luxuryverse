@@ -4,7 +4,6 @@ import Link from "next/link";
 import menu from "../assets/menu.svg";
 import closeIcon from "../assets/close.svg";
 import market from "../assets/market.svg";
-import diamond from "../assets/diamond.svg";
 import blog from "../assets/blog.svg";
 import gift from "../assets/gift.svg";
 import credibility from "../assets/credibility.svg";
